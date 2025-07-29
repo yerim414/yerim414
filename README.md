@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>  -->
     <div style="text-align: left;"> <a href=https://www.notion.so/cfe8477a0269449eab932db2b19deb35?v=7f4553cb8279453f807786cf9ccf4faa&source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/cfe8477a0269449eab932db2b19deb35?v=7f4553cb8279453f807786cf9ccf4faa&source=copy_link"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
