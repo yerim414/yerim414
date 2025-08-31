@@ -1,8 +1,18 @@
 # 🐱 Yerim 🐱
 
+<p align="center">
+  <img src="https://github.com/yerim414/yerim414/blob/main/a4f2487d95fc4d699de47970128d24b5.jpg" alt="귀여운 캐릭터" width="500"/>
+</p>
+
+---
+
+### 📚 My Notion
+저는 공부한 내용과 기술 정리, 프로젝트 기록 등을 Notion에 정리하고 있어요.  
+
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://your-notion-link)
 
-### 🛠 Skills
+
+## 🛠 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
@@ -16,7 +26,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> 
 </p>
 
-### ✨ 경험해본 것들
+## ✨ 경험해본 것들
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/> 
